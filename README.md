@@ -1,200 +1,123 @@
-# Richard Adel Fathalla
+<div align="center">
+  <img src="./assets/hero.svg" alt="Richard Adel Fathalla — IT Infrastructure Engineer, Cloud and Systems Engineering" width="100%">
+</div>
 
-**Enterprise IT Infrastructure | Microsoft Azure | Identity & Endpoint Management | Cloud Engineering**
+<br>
 
-Computer Science graduate and enterprise IT professional based in New York City. I work across Microsoft cloud administration, identity management, endpoint deployment, networking, and workplace technology while building hands-on experience in Azure infrastructure and automation.
+```text
+$ whoami
+> Enterprise IT Professional
+> Microsoft Azure | Entra ID | Intune
+> Building toward Cloud & AI Infrastructure
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Richardadel)
+## About
 
----
+Computer Science graduate and enterprise IT professional based in New York City. Field Support Technician at **Spin Master** through **Insight Global**, providing primary onsite IT support for the NYC office and 100+ onsite users and remote employees.
 
-## Professional Focus
+I work across identity administration, endpoint management, infrastructure troubleshooting, and enterprise collaboration systems—then apply that operational experience to Azure, Linux, automation, and cloud infrastructure.
 
-I am an IT professional with enterprise experience in technical support and workplace infrastructure. In my current role as a Field Support Technician at Spin Master through Insight Global, I provide primary onsite IT support for the New York City office, supporting more than 100 onsite employees and remote users.
+## Tech Stack
 
-My work spans enterprise identity, endpoint lifecycle management, Microsoft 365 administration, networking, conferencing technology, and production incident support. I am developing toward Azure Cloud Engineering and AI Infrastructure by turning operational experience into documented, reproducible infrastructure projects.
+### Cloud & Identity
 
-I do not yet claim a Cloud Engineer or DevOps Engineer title. This profile documents the skills I use professionally, the cloud technologies I am learning, and only the projects I have actually implemented.
-
-## Technical Expertise
-
-### Cloud & Microsoft Infrastructure
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-Azure fundamentals · Microsoft Entra ID · Active Directory · IAM · RBAC · PIM · MFA · Microsoft 365 licensing · Exchange Online · Teams · OneDrive · SharePoint · Windows Autopilot
-
-### Endpoint & Workplace Operations
+### Infrastructure & Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-Microsoft Intune · Windows Autopilot · Windows 10/11 · macOS · Addigy MDM · ConnectWise Automate · remote support · asset management · device lifecycle · hardware deployment · Teams Rooms · Zoom · Google Meet
-
-### Networking & Infrastructure
-
-TCP/IP · DNS · DHCP · VPN · Ethernet switching · patch panels · switch connectivity · enterprise Wi-Fi · Zscaler · network troubleshooting · hardware diagnostics
+![Networking](https://img.shields.io/badge/Networking-00A4EF?style=for-the-badge&logo=cisco&logoColor=white)
+![Autopilot](https://img.shields.io/badge/Windows_Autopilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 
 ### Development & Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-Python · SQL · MySQL · PHP · HTML · CSS · JavaScript · Bash · PowerShell
-
-<details>
-<summary>Professional versus academic technology use</summary>
-
-- **Professional:** Microsoft Entra ID, Intune, Autopilot, Microsoft 365, Active Directory, endpoint management, enterprise networking, Teams Rooms, and workplace support technologies.
-- **Academic:** Gym and yoga studio applications, relational database design, Linux administration, and cybersecurity data analysis.
-- **Learning:** Azure administration and infrastructure, PowerShell automation, infrastructure as code, containers, Kubernetes, DevOps, cloud security, and AI infrastructure.
-
-</details>
-
----
-
-## Infrastructure Experience
-
-**Enterprise Identity Administration**
-
-- Support enterprise identity lifecycle tasks across onboarding and offboarding workflows.
-- Administer Microsoft Entra ID and Active Directory in authorized operational contexts.
-- Troubleshoot MFA and authentication failures.
-- Support Microsoft 365 licensing and access changes.
-- Apply least-privilege and role-based access principles.
-
-**Endpoint Deployment and Lifecycle**
-
-- Provision Windows devices using Windows Autopilot and Microsoft Intune.
-- Support macOS endpoint management through Addigy.
-- Troubleshoot enterprise applications and hardware.
-- Contribute to device lifecycle operations from preparation through deployment and support.
-
-**Infrastructure and Networking**
-
-- Diagnose enterprise connectivity and authentication issues.
-- Work with switches, Ethernet cabling, and network patch panels.
-- Investigate network symptoms and escalate infrastructure faults using structured troubleshooting.
-
-**Workplace Technology**
-
-- Support Microsoft Teams, Zoom, meeting rooms, and executive event technology.
-- Troubleshoot enterprise audiovisual environments.
-- Develop temporary workarounds to preserve business continuity during production incidents.
-
-**Incident Response**
-
-- Diagnose technology failures under time pressure.
-- Restore service through controlled troubleshooting and escalation.
-- Investigate root causes and communicate technical status to stakeholders.
-
-> Confidential employer information, internal network details, credentials, customer data, scripts, and proprietary configurations are intentionally excluded.
-
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Featured Projects
 
-| Project | Focus | Status |
-|---|---|---|
-| Azure Cloud Infrastructure Lab | Resource Groups, VMs, VNets, subnets, identity, and access control | Hands-on lab |
-| Windows Autopilot Endpoint Lab | Sanitized endpoint deployment and Intune workflow documentation | Lab |
-| Gym Management Web Application | PHP, MySQL, authentication, sessions, and full-stack CRUD | Academic |
-| Yoga Studio Database System | Relational modeling, normalization, referential integrity, and SQL | Academic |
-| Linux Server Administration Lab | Red Hat, EC2, shell scripting, SSH, permissions, and hardening | Lab |
-| Cybersecurity Threat Data Analysis | Statistical analysis and visualization of approximately 10,000 records | Academic |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Azure Cloud Infrastructure Lab</h3>
+      <p>Hands-on Azure environment covering virtual machines, resource groups, virtual networks, subnets, identity, and access control.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+        <img src="https://img.shields.io/badge/VNet-0078D4?style=flat-square" alt="Virtual Network">
+        <img src="https://img.shields.io/badge/IAM-0078D4?style=flat-square" alt="Identity and access management">
+      </p>
+      <p><strong>Repository:</strong> <code>planned / link needed</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Linux Server Administration on AWS EC2</h3>
+      <p>Linux administration lab for SSH, permissions, shell scripting, service configuration, hardening, and network diagnostics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="AWS EC2">
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+      </p>
+      <p><strong>Repository:</strong> <code>planned / link needed</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Richardadel/Gym-Management-System-Project">Gym Management Web Application</a></h3>
+      <p>Database-driven gym platform with authentication, membership records, classes, trainers, and enrollment workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Richardadel/Yoga-Center-Project-">Yoga Studio Database Management</a></h3>
+      <p>Relational database system covering members, instructors, classes, schedules, rooms, memberships, and integrity constraints.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=white" alt="Microsoft Access">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3><a href="https://github.com/Richardadel/MAT301">Cybersecurity Threat Data Analysis</a></h3>
+      <p>Analysis of 10,000+ global cybersecurity threat records using descriptive statistics, visualization, and data exploration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Data_Analysis-00FF88?style=flat-square&logoColor=white" alt="Data analysis">
+        <img src="https://img.shields.io/badge/Statistics-00FF88?style=flat-square&logoColor=white" alt="Statistics">
+        <img src="https://img.shields.io/badge/Cybersecurity-00FF88?style=flat-square&logoColor=white" alt="Cybersecurity">
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Azure Cloud Infrastructure Lab
+## Currently Building
 
-A hands-on Microsoft Azure environment focused on core cloud infrastructure concepts, including Virtual Machines, Resource Groups, Virtual Networks, subnets, identity, and access control.
+```text
+CURRENT_FOCUS = ["Azure Infrastructure", "PowerShell Automation", "Infrastructure as Code"]
+```
 
-**Implementation scope:** Only components demonstrated in the repository should be claimed. Azure Monitor, Network Security Groups, Terraform, Bicep, and infrastructure automation are planned enhancements, not completed features.
+## GitHub Activity
 
-### Windows Autopilot & Endpoint Deployment
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Richardadel&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=F0F6FC&bg_color=050505" alt="Richard Adel Fathalla's GitHub statistics">
+</div>
 
-A sanitized documentation project explaining Windows Autopilot concepts, hardware hash collection, device enrollment, Intune management, and the enterprise device provisioning workflow.
+## Connect
 
-**Safety scope:** The lab contains no proprietary scripts, device identifiers, tenant details, internal configurations, or employer-specific information.
-
-### Gym Management Web Application
-
-A full-stack, database-driven academic application built with PHP, MySQL, HTML, CSS, JavaScript, and XAMPP. The implemented application covers authentication, session handling, trainer and class management, member records, and class enrollment.
-
-### Yoga Studio Database Management System
-
-A relational database project covering members, instructors, classes, schedules, rooms, and memberships. It demonstrates entity modeling, relationships, referential integrity, normalization, and query development where supported by the implementation.
-
-### Linux Server Administration Lab
-
-An infrastructure lab using Red Hat Linux and AWS EC2 to practice command-line administration, shell scripting, file permissions, directories, SSH configuration, server hardening fundamentals, and network diagnostics.
-
-### Cybersecurity Threat Data Analysis
-
-An academic analysis project using approximately 10,000 records to explore data quality, descriptive statistics, probability, confidence intervals, hypothesis testing, and cybersecurity trends through visualization.
-
----
-
-## Certifications & Learning
-
-### Completed Certifications
-
-- None listed on this profile until official certificates and passing records are confirmed.
-
-### Certification in Progress
-
-- Microsoft Azure Administrator (AZ-104) — **studying; not claimed as earned**
-
-### Current Learning
-
-- Advanced Azure networking
-- Azure infrastructure administration
-- PowerShell automation
-- Infrastructure as Code
-- Terraform
-- Docker
-- Kubernetes fundamentals
-- DevOps fundamentals
-- Cloud security
-- AI infrastructure
-
-### Future Learning Goals
-
-- GitHub Actions
-- Azure Policy
-- Azure Monitor and Log Analytics
-- Microsoft Graph
-- Hybrid identity and networking
-- Observability and infrastructure reliability
-
----
-
-## Six-Month Portfolio Roadmap
-
-| Month | Objective | Deliverable |
-|---|---|---|
-| 1 | Strengthen Azure foundations | Expand the Azure lab with a documented architecture, RBAC, resource inventory, and cost cleanup |
-| 2 | Add infrastructure as code | Rebuild and document the Azure environment with Terraform |
-| 3 | Implement observability | Add Azure Monitor, Log Analytics, metrics, logs, alerts, and runbooks |
-| 4 | Demonstrate identity automation | Build a sanitized Entra ID or Microsoft Graph automation project |
-| 5 | Build hybrid infrastructure | Create a documented hub-spoke or secure hybrid networking lab |
-| 6 | Complete a delivery pipeline | Deploy containers using GitHub Actions and document CI/CD, rollback, and operations |
-
----
-
-## Education
-
-- **Bachelor of Science, Computer Science** — Lehman College, CUNY, 2025
-- **Bachelor of Arts, French Studies** — Alexandria University, 2021
-
-## Languages
-
-- Arabic — Native
-- English — Bilingual
-- French — Full professional proficiency
-
----
-
-<sub>Professional experience and project scope are presented without confidential employer or customer information.</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Richardadel)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
