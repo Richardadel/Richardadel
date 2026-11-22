@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Infrastructure and software project portfolio</title>
+  <desc id="desc">Three verified project cards and two planned infrastructure lab cards.</desc>
+  <rect width="1200" height="680" rx="14" fill="#050807"/>
+  <g fill="#0B1110" stroke="#1C3B2D" stroke-width="2">
+    <rect x="24" y="24" width="360" height="290" rx="14"/><rect x="420" y="24" width="360" height="290" rx="14"/>
+    <rect x="816" y="24" width="360" height="290" rx="14"/><rect x="222" y="366" width="360" height="290" rx="14"/><rect x="618" y="366" width="360" height="290" rx="14"/>
+  </g>
+  <g font-family="ui-monospace, monospace">
+    <g fill="#00FF88" font-size="12" letter-spacing="2">
+      <text x="48" y="58">AZURE / CLOUD</text><text x="444" y="58">LINUX / AWS EC2</text><text x="840" y="58">DATABASE / PHP</text>
+      <text x="246" y="400">DATABASE / SQL</text><text x="642" y="400">DATA / ANALYSIS</text>
+    </g>
+    <g fill="#F2FFF8" font-size="20" font-weight="700">
+      <text x="48" y="108">AZURE VM LAB</text><text x="444" y="108">LINUX SERVER LAB</text><text x="840" y="108">GYM MANAGEMENT</text>
+      <text x="246" y="450">YOGA DATABASE</text><text x="642" y="450">THREAT ANALYSIS</text>
+    </g>
+    <g fill="#8FA99B" font-size="12">
+      <text x="48" y="142">VM / RESOURCE GROUP / VNET</text><text x="48" y="164">IDENTITY / ACCESS CONTROL</text>
+      <text x="444" y="142">SSH / PERMISSIONS / HARDENING</text><text x="444" y="164">BASH / NETWORK DIAGNOSTICS</text>
+      <text x="840" y="142">AUTH / MEMBERS / TRAINERS</text><text x="840" y="164">CLASSES / MYSQL / ENROLLMENT</text>
+      <text x="246" y="484">MEMBERS / INSTRUCTORS / CLASSES</text><text x="246" y="506">ROOMS / RELATIONS / SQL</text>
+      <text x="642" y="484">10,000+ RECORD DATASET</text><text x="642" y="506">STATISTICS / VISUALIZATION</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#00FF88" stroke-width="1.5" opacity=".8">
+    <rect x="48" y="196" width="312" height="76" rx="8"/><rect x="444" y="196" width="312" height="76" rx="8"/>
+    <rect x="840" y="196" width="312" height="76" rx="8"/><rect x="246" y="538" width="312" height="76" rx="8"/><rect x="642" y="538" width="312" height="76" rx="8"/>
+  </g>
+  <g font-family="ui-monospace, monospace" text-anchor="middle" font-size="12" fill="#8AFFC1">
+    <text x="204" y="238">REPOSITORY PLANNED</text><text x="204" y="260">LINK NEEDED</text>
+    <text x="600" y="238">REPOSITORY PLANNED</text><text x="600" y="260">LINK NEEDED</text>
+    <text x="996" y="238">PHP / MYSQL</text><text x="996" y="260">VERIFIED REPOSITORY</text>
+    <text x="402" y="580">MYSQL / ACCESS</text><text x="402" y="602">VERIFIED REPOSITORY</text>
+    <text x="798" y="580">PYTHON / CSV</text><text x="798" y="602">VERIFIED REPOSITORY</text>
+  </g>
+</svg>
